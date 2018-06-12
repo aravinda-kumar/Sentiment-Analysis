@@ -1,0 +1,19 @@
+Downloading Data From Web:
+1) Run Amazon Kindle.R for Amazon
+2) Run Google News.R fro google news
+3) Run Twitter Kindle.R for Tweet.
+
+
+-------------------------------------------------------------------------------
+
+Input file format for Sentiment analyses (Updated_Sentiment_analysis.R)
+Select text_functions.R - 
+Select txt file you want to analyse
+Select stopwords.txt file
+read-in positive_words.txt
+read-in negative_words.txt
+
+Provide file name to write comments (Exp like "Comments.txt")
+-------------------------------------------------------------------------------
+
+
